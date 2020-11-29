@@ -1,0 +1,2 @@
+FROM caesar0m0d/mysql_test
+RUN mkdir /test
